@@ -7,6 +7,7 @@ import Benefits from '@/components/Benefits';
 import FAQ from '@/components/FAQ';
 import CallToAction from '@/components/CallToAction';
 import Footer from '@/components/Footer';
+import SEOHelmet from '@/components/SEOHelmet';
 
 const Index = () => {
   return (

@@ -12,3 +12,17 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Disallow dynamic routes and admin areas
+Disallow: /api/
+Disallow: /admin/
+
+# Allow important files
+Allow: /social-share.svg
+Allow: /favicon.ico
+
+# Sitemap location
+Sitemap: https://abundantaussie.com/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
