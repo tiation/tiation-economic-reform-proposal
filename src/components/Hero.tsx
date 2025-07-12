@@ -8,6 +8,19 @@ const Hero = () => {
     document.getElementById('overview')?.scrollIntoView({ behavior: 'smooth' });
   };
 
+  const scrollToDownloads = () => {
+    document.querySelector('[data-downloads-section]')?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const downloadSummary = () => {
+    const link = document.createElement('a');
+    link.href = '/One_Page_Summary.pdf';
+    link.download = 'One_Page_Summary.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <div className="relative min-h-screen bg-gradient-to-br from-blue-900 via-blue-800 to-blue-950 flex items-center justify-center text-white overflow-hidden">
       <div className="absolute inset-0 opacity-10">
@@ -23,11 +36,12 @@ const Hero = () => {
             Australia's balance sheet says we're a $19 trillion nation. If we unlock even a third of that value, we can wipe every public debt, pre-pay government for five years, and put an asset-plus-UBI in every adult and child's pocket—today.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button className="bg-yellow-500 hover:bg-yellow-400 text-blue-900 font-bold px-8 py-6 text-lg rounded-lg">
+            <Button onClick={scrollToOverview} className="bg-yellow-500 hover:bg-yellow-400 text-blue-900 font-bold px-8 py-6 text-lg rounded-lg">
               Learn More
             </Button>
-            <Button variant="outline" className="text-white border-white hover:bg-white/10 px-8 py-6 text-lg rounded-lg">
-              See The Numbers
+            <Button onClick={downloadSummary} variant="outline" className="text-white border-white hover:bg-white/10 px-8 py-6 text-lg rounded-lg">
+              <Download className="w-5 h-5 mr-2" />
+              Download Summary
             </Button>
           </div>
         </div>

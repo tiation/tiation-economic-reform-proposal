@@ -8,6 +8,7 @@ import Downloads from '@/components/Downloads';
 import FAQ from '@/components/FAQ';
 import CallToAction from '@/components/CallToAction';
 import Footer from '@/components/Footer';
+import FloatingDownloadButton from '@/components/FloatingDownloadButton';
 import SEOHelmet from '@/components/SEOHelmet';
 
 const Index = () => {
@@ -21,6 +22,7 @@ const Index = () => {
       <FAQ />
       <CallToAction />
       <Footer />
+      <FloatingDownloadButton />
     </div>
   );
 };
