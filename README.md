@@ -1,73 +1,111 @@
-# Welcome to your Lovable project
+# The $19 Trillion Solution
 
-## Project info
+Australia's balance sheet says we're a $19 trillion nation. If we unlock even a third of that value, we can wipe every public debt, pre-pay government for five years, and put an asset-plus-UBI in every adult and child's pocket—today.
 
-**URL**: https://lovable.dev/projects/d0292503-43bd-43b2-9467-ad39e9687e7d
+## 🌟 About the Solution
 
-## How can I edit this code?
+This project presents a comprehensive economic reform proposal for Australia, demonstrating how the nation's existing assets can be leveraged to:
 
-There are several ways of editing your application.
+- **Eliminate public debt** across all levels of government
+- **Pre-fund government operations** for 5+ years
+- **Provide Universal Basic Income** backed by real assets
+- **Create sustainable economic growth** through asset-backed monetary policy
 
-**Use Lovable**
+## 🚀 Live Demo
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d0292503-43bd-43b2-9467-ad39e9687e7d) and start prompting.
+Visit the live site: [https://tiation.github.io/19-trillion-solution/](https://tiation.github.io/19-trillion-solution/)
 
-Changes made via Lovable will be committed automatically to this repo.
+## 💻 Development Setup
 
-**Use your preferred IDE**
+This project uses modern web technologies for fast development and deployment.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js 18+ (recommended: install with [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+- Bun runtime (for faster builds)
 
-Follow these steps:
+### Quick Start
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+# Clone the repository
+git clone https://github.com/tiation/19-trillion-solution.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate to project directory
+cd 19-trillion-solution
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies (using Bun for speed)
+bun install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+# Start development server
+bun run dev
 ```
 
-**Edit a file directly in GitHub**
+### Available Scripts
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+# Development server with hot reload
+bun run dev
 
-**Use GitHub Codespaces**
+# Build for production
+bun run build
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Development build (with source maps)
+bun run build:dev
 
-## What technologies are used for this project?
+# Preview production build
+bun run preview
 
-This project is built with:
+# Lint code
+bun run lint
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🛠️ Tech Stack
 
-## How can I deploy this project?
+This project is built with modern, fast technologies:
 
-Simply open [Lovable](https://lovable.dev/projects/d0292503-43bd-43b2-9467-ad39e9687e7d) and click on Share -> Publish.
+- **Vite** - Lightning-fast build tool and dev server
+- **TypeScript** - Type-safe JavaScript
+- **React** - UI library with hooks
+- **shadcn/ui** - Beautiful, accessible component library
+- **Tailwind CSS** - Utility-first CSS framework
+- **Bun** - Fast JavaScript runtime and package manager
 
-## Can I connect a custom domain to my Lovable project?
+## 🚀 Deployment
 
-Yes, you can!
+This project is automatically deployed to GitHub Pages via GitHub Actions:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+1. Push changes to the `master` branch
+2. GitHub Actions builds the project with Vite
+3. Deploys to `gh-pages` branch
+4. Available at: https://tiation.github.io/19-trillion-solution/
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+### Manual Deployment
+
+```bash
+# Build the project
+bun run build
+
+# Preview the build locally
+bun run preview
+```
+
+## 📖 Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── ui/             # shadcn/ui components
+│   ├── Hero.tsx        # Landing hero section
+│   ├── Overview.tsx    # Solution overview
+│   └── ...
+├── pages/              # Page components
+└── App.tsx            # Main app component
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
