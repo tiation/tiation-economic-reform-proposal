@@ -31,10 +31,14 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          npm ci --no-fund --no-audit
+          npm ls || true
 
       - name: Build with Vite
-        run: npm run build
+        run: |
+          npm run build
+          ls -la dist/
         env:
           NODE_ENV: production
 
@@ -46,4 +50,6 @@ jobs:
           publish_branch: gh-pages
           force_orphan: true
           cname: false
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
 
