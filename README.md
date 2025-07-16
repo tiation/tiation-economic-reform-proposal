@@ -1,8 +1,23 @@
-# The $19 Trillion Solution
+# 💰🌏 The $19 Trillion Solution: Abundance is Real
+
+<div align="center">
+
+![19 Trillion Banner](https://img.shields.io/badge/Unlock-$19%20Trillion-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJjNS41MjMgMCAxMCA0LjQ3NyAxMCAxMHMtNC40NzcgMTAtMTAgMTBTMiAxNy41MjMgMiAxMiA2LjQ3NyAyIDEyIDJ6bTAgMmMtNC40MTggMC04IDMuNTgyLTggOHMzLjU4MiA4IDggOCA4LTMuNTgyIDgtOC0zLjU4Mi04LTgtOHptMCA5YTEgMSAwIDEgMSAwIDIgMSAxIDAgMCAxIDAtMnptMC02YTEgMSAwIDAgMSAxIDF2NGExIDEgMCAwIDEtMiAwVjhhMSAxIDAgMCAxIDEtMXoiLz48L3N2Zz4=)
+
+**"What if we shared what we have? Woah. We're rich!!!!"**
+
+*Australia's balance sheet says we're a $19 trillion nation. Let's unlock it for everyone.*
+
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://tiation.github.io/19-trillion-solution/)
+[![Research](https://img.shields.io/badge/Research-Mathematical%20Proof-blue?style=flat-square)](docs/research/)
+[![Solution](https://img.shields.io/badge/Solution-Ready-success?style=flat-square)](docs/solution/)
+[![Impact](https://img.shields.io/badge/Impact-Universal-orange?style=flat-square)](docs/impact/)
+
+</div>
+
+---
 
 *A Tiation & ChaseWhiteRabbit Initiative*
-
-Australia's balance sheet says we're a $19 trillion nation. If we unlock even a third of that value, we can wipe every public debt, pre-pay government for five years, and put an asset-plus-UBI in every adult and child's pocket—today.
 
 ## 🌟 About the Solution
 
@@ -23,6 +38,17 @@ Aligned with ChaseWhiteRabbit's core belief that **automation is compassion at s
 ## 🚀 Live Demo
 
 Visit the live site: [https://tiation.github.io/19-trillion-solution/](https://tiation.github.io/19-trillion-solution/)
+
+## 📱 iOS App
+
+Experience the 19 Trillion Solution on your iPhone or iPad with our native iOS app featuring:
+
+- **Interactive Dashboard** - Real-time visualization of economic impacts
+- **Personal Calculator** - See how the solution affects your household
+- **Implementation Timeline** - Track progress towards reform
+- **Resource Library** - Access documents, videos, and research
+
+See the [iOS App README](./ios-app/README.md) for development instructions.
 
 ## 💻 Development Setup
 
@@ -109,6 +135,16 @@ src/
 │   └── ...
 ├── pages/              # Page components
 └── App.tsx            # Main app component
+
+ios-app/                # Native iOS application
+├── NineteenTrillionSolutionApp.swift
+├── MainTabView.swift
+├── DashboardView.swift
+├── CalculatorView.swift
+├── TimelineView.swift
+├── ResourcesView.swift
+├── AboutView.swift
+└── README.md
 ```
 
 ## 🤝 Contributing
