@@ -12,11 +12,11 @@ interface SEOProps {
 }
 
 const SEOHelmet: React.FC<SEOProps> = ({
-  title = "The $19 Trillion Solution - Australia's Economic Potential Unlocked",
-  description = "Discover how Australia can unlock its $19 trillion balance sheet value to wipe public debt, pre-pay government for 5 years, and fund a Universal Basic Income for every citizen.",
-  keywords = "Australia, economy, UBI, Universal Basic Income, public debt, economic policy, $19 trillion, Australian economy, wealth distribution, fiscal policy",
-  image = "https://abundantaussie.com/social-share.svg",
-  url = "https://abundantaussie.com/",
+  title = "The $19 Trillion Solution - Tiation & ChaseWhiteRabbit Initiative",
+  description = "Discover how Australia can unlock its $19 trillion balance sheet value to wipe public debt, pre-pay the government for 5 years, and fund a Universal Basic Income for every citizen. A collaborative initiative by Tiation and ChaseWhiteRabbit.",
+  keywords = "Australia, economy, UBI, Universal Basic Income, public debt, economic policy, $19 trillion, Australian economy, wealth distribution, fiscal policy, Tiation, ChaseWhiteRabbit, cooperative economics, automation compassion",
+  image = "https://tiation.github.io/19-trillion-solution/social-share.svg",
+  url = "https://tiation.github.io/19-trillion-solution/",
   type = "website",
   twitterCard = "summary_large_image"
 }) => {
@@ -43,7 +43,7 @@ const SEOHelmet: React.FC<SEOProps> = ({
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <meta property="og:image:type" content="image/svg+xml" />
-      <meta property="og:site_name" content="Abundant Aussie" />
+      <meta property="og:site_name" content="Tiation & ChaseWhiteRabbit" />
       <meta property="og:locale" content="en_AU" />
       
       {/* Twitter */}
@@ -52,8 +52,8 @@ const SEOHelmet: React.FC<SEOProps> = ({
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={description} />
       <meta property="twitter:image" content={image} />
-      <meta property="twitter:creator" content="@abundantaussie" />
-      <meta property="twitter:site" content="@abundantaussie" />
+      <meta property="twitter:creator" content="@tiation" />
+      <meta property="twitter:site" content="@tiation" />
       
       {/* Additional Meta Tags */}
       <meta name="theme-color" content="#1e3a8a" />
@@ -64,7 +64,7 @@ const SEOHelmet: React.FC<SEOProps> = ({
         {JSON.stringify({
           "@context": "https://schema.org",
           "@type": "WebSite",
-          "name": "Abundant Aussie",
+          "name": "The $19 Trillion Solution - Tiation & ChaseWhiteRabbit",
           "url": url,
           "description": description,
           "potentialAction": {
