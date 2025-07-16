@@ -149,3 +149,22 @@ ChaseWhiteRabbit is an NGO that transforms grief into systemic change through su
 
 *This project is part of Tiation's mission to create technology that serves humanity and ChaseWhiteRabbit's commitment to building a more compassionate, efficient world through cooperative technology development.*
 # Force workflow trigger
+
+## Related Repositories
+
+This repository is part of the Tiation GitHub ecosystem. For a complete overview of all repositories and their relationships, see the [Repository Index](../REPOSITORY_INDEX.md).
+
+### Direct Dependencies
+- [company-intranet](../company-intranet/) - Internal portal implementation
+- [RiggerConnect-RiggerJobs-Workspace-PB](../RiggerConnect-RiggerJobs-Workspace-PB/) - Industry-specific solution
+- [server-configs-gae](../server-configs-gae/) - Deployment configurations
+- [workflows](../workflows/) - CI/CD pipelines
+
+### Quick Links
+- [Repository Index](../REPOSITORY_INDEX.md) - Complete repository overview
+- [Development Setup](../ubuntu-dev-setup/README.md) - Development environment setup
+- [Workflows](../workflows/) - CI/CD templates
+- [Infrastructure](../server-configs-gae/) - Deployment configurations
+
+---
+*Part of the [Tiation](../tiation/) ecosystem*
