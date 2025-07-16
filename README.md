@@ -1,15 +1,24 @@
 # The $19 Trillion Solution
 
+*A Tiation & ChaseWhiteRabbit Initiative*
+
 Australia's balance sheet says we're a $19 trillion nation. If we unlock even a third of that value, we can wipe every public debt, pre-pay government for five years, and put an asset-plus-UBI in every adult and child's pocket—today.
 
 ## 🌟 About the Solution
 
-This project presents a comprehensive economic reform proposal for Australia, demonstrating how the nation's existing assets can be leveraged to:
+This project, developed by **Tiation** in partnership with **ChaseWhiteRabbit**, presents a comprehensive economic reform proposal for Australia. It demonstrates how the nation's existing assets can be leveraged to create systemic change that removes barriers and empowers communities.
+
+### Key Outcomes
 
 - **Eliminate public debt** across all levels of government
-- **Pre-fund government operations** for 5+ years
+- **Pre-fund government operations** for 5+ years  
 - **Provide Universal Basic Income** backed by real assets
 - **Create sustainable economic growth** through asset-backed monetary policy
+- **Transform grief into hope** through evidence-based policy reform
+
+### Our Mission
+
+Aligned with ChaseWhiteRabbit's core belief that **automation is compassion at scale**, this solution demonstrates how technology and cooperative economics can address root causes of social problems rather than just symptoms.
 
 ## 🚀 Live Demo
 
@@ -104,8 +113,38 @@ src/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We welcome contributions from developers, economists, policy researchers, and community advocates. This project embodies our commitment to cooperative development and transparent governance.
+
+Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting contributions.
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## 🌐 About the Organizations
+
+### Tiation
+
+Tiation is committed to creating technology that removes barriers and empowers communities through innovative solutions. We believe in the power of cooperative development and evidence-based policy reform.
+
+### ChaseWhiteRabbit
+
+ChaseWhiteRabbit is an NGO that transforms grief into systemic change through sustainable technology solutions. We create income-producing applications that address root causes of social problems, with our core belief that **automation is compassion at scale**.
+
+## 📞 Contact
+
+- **Website**: [https://tiation.org](https://tiation.org)
+- **ChaseWhiteRabbit**: [https://chasewhiterabbit.org](https://chasewhiterabbit.org)
+- **Email**: info@tiation.org
+- **Support**: support@tiation.org
+- **Security**: security@tiation.org
+
+## 🌟 Related Projects
+
+- [ChaseWhiteRabbit](https://github.com/tiation/ChaseWhiteRabbit) - Main NGO repository
+- [GriefToDesign](https://github.com/tiation/grieftodesign) - Transform grief into systemic solutions
+- [Intranet](https://github.com/tiation/company-intranet) - Enterprise-grade community management
+
+---
+
+*This project is part of Tiation's mission to create technology that serves humanity and ChaseWhiteRabbit's commitment to building a more compassionate, efficient world through cooperative technology development.*

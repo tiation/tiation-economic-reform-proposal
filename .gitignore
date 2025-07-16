@@ -1,5 +1,27 @@
+# The $19 Trillion Solution - Enterprise Grade .gitignore
+# Tiation & ChaseWhiteRabbit Initiative
+
+# ====================================
+# Dependencies
+# ====================================
+node_modules/
+vendor/
+
+# ====================================
+# Build Outputs
+# ====================================
+dist/
+dist-ssr/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# ====================================
 # Logs
-logs
+# ====================================
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
@@ -7,18 +29,127 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# ====================================
+# Runtime & Cache
+# ====================================
+.cache/
+.parcel-cache/
+.npm/
+.yarn/
+.pnpm/
+.eslintcache
+.stylelintcache
+.tsbuildinfo
+.turbo/
+
+# ====================================
+# Environment Variables
+# ====================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.staging.local
 *.local
 
-# Editor directories and files
+# ====================================
+# Testing
+# ====================================
+coverage/
+*.lcov
+.nyc_output/
+
+# ====================================
+# IDE & Editor Files
+# ====================================
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# ====================================
+# Operating System Files
+# ====================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ====================================
+# Security & Secrets
+# ====================================
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+secrets.json
+.secrets/
+
+# ====================================
+# Documentation
+# ====================================
+/docs/build/
+/docs/dist/
+
+# ====================================
+# Development Tools
+# ====================================
+.storybook-static/
+.chromatic/
+
+# ====================================
+# Deployment
+# ====================================
+.vercel/
+.netlify/
+.firebase/
+
+# ====================================
+# Temporary Files
+# ====================================
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# ====================================
+# Package Manager Lock Files
+# Keep package-lock.json and yarn.lock for consistency
+# but ignore bun.lockb for now
+# ====================================
+# Uncomment if using specific package managers
+# package-lock.json
+# yarn.lock
+# bun.lockb
+
+# ====================================
+# Backup Files
+# ====================================
+*.bak
+*.backup
+*.old
+*.orig
+
+# ====================================
+# Miscellaneous
+# ====================================
+.vite/
+.svelte-kit/
+.sveltekit/
+.solid/
+.astro/
