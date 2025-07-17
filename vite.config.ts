@@ -17,7 +17,7 @@ export default defineConfig(({ command, mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
   
   const config: UserConfig = {
-    base: "/19-trillion-solution/",
+    base: "/tiation-economic-reform-proposal/",
     
     // Development server configuration
     server: {
