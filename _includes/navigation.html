@@ -1,0 +1,20 @@
+<nav class="nav-wrapper" role="navigation" aria-label="Main navigation">
+    <div class="nav">
+        <a href="{{ '/' | relative_url }}" class="nav-brand" aria-label="Home">
+            🔮 {{ site.title | default: "Tiation Economic Reform" }}
+        </a>
+        
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle navigation menu">
+            ☰
+        </button>
+        
+        <ul class="nav-menu" id="nav-menu">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/Full_Academic_Report.html' | relative_url }}">Full Report</a></li>
+            <li><a href="{{ '/One_Page_Summary.html' | relative_url }}">Summary</a></li>
+            <li><a href="{{ '/19T_Solution_Slides.pptx' | relative_url }}">Slides</a></li>
+            <li><a href="{{ '/Mindmap.png' | relative_url }}">Mindmap</a></li>
+            <li><a href="https://github.com/tiation/tiation-economic-reform-proposal" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+        </ul>
+    </div>
+</nav>

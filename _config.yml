@@ -1,31 +1,104 @@
 # GitHub Pages Configuration
-title: "tiation-economic-reform-proposal"
-description: "Enterprise-grade solution in the Tiation ecosystem"
+title: "Tiation Economic Reform Proposal"
+description: "Australia's $19 trillion solution for debt elimination, government pre-funding, and Universal Basic Income - A comprehensive economic reform proposal"
 url: "https://tiation.github.io/tiation-economic-reform-proposal"
 baseurl: ""
 
-# Theme
+# Author and organization info
+author: "Tiation & ChaseWhiteRabbit"
+organization: "Tiation"
+github_username: tiation
+twitter_username: tiation
+
+# Theme and rendering
 theme: minima
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
-# Dark neon theme
+# SEO and social settings
+social:
+  name: "Tiation Economic Reform"
+  links:
+    - https://github.com/tiation
+    - https://github.com/tiation/tiation-economic-reform-proposal
+    - https://tiation.github.io
+
+# Enhanced mobile-responsive neon theme
 custom_css: |
   :root {
-    --primary-color: #00ffff;
-    --secondary-color: #ff00ff;
-    --background-color: #0a0a0a;
-    --text-color: #ffffff;
-    --accent-color: #00ff88;
+    --primary-cyan: #00FFFF;
+    --secondary-magenta: #FF00FF;
+    --accent-blue: #007FFF;
+    --dark-bg: #0A0A0A;
+    --dark-card: #1A1A1A;
+    --text-primary: #FFFFFF;
+    --text-secondary: #CCCCCC;
+    --gradient-primary: linear-gradient(135deg, var(--primary-cyan), var(--secondary-magenta));
+    --gradient-secondary: linear-gradient(135deg, var(--accent-blue), var(--primary-cyan));
+    --neon-shadow: 0 0 20px rgba(0, 255, 255, 0.3);
+    --neon-glow: 0 0 40px rgba(0, 255, 255, 0.5);
+    --border-radius: 12px;
+    --spacing-unit: 1rem;
   }
   
   body {
-    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
-    color: var(--text-color);
+    background: linear-gradient(135deg, var(--dark-bg) 0%, #1a1a2e 50%, #16213e 100%);
+    color: var(--text-primary);
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
+
+# Mobile optimization settings
+responsive:
+  enabled: true
+  breakpoints:
+    mobile: 480px
+    tablet: 768px
+    desktop: 1200px
+
+# Performance optimizations
+optimize:
+  css: true
+  js: true
+  images: true
+  gzip: true
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Tiation & ChaseWhiteRabbit"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - analyze_repos_for_ux.py
+  - repo_analysis_data.json
+  - UX_ENHANCEMENT_PRIORITY_REPORT.md

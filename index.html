@@ -354,25 +354,181 @@
             font-weight: 700;
         }
 
-        /* Responsive Design */
+        /* Enhanced Mobile-First Responsive Design */
         @media (max-width: 768px) {
+            .container {
+                padding: 0 1rem;
+            }
+            
             .hero-title {
-                font-size: 2.5rem;
+                font-size: clamp(2rem, 8vw, 2.5rem);
+                line-height: 1.2;
+            }
+            
+            .hero-subtitle {
+                font-size: clamp(1rem, 4vw, 1.4rem);
+            }
+            
+            .hero-description {
+                font-size: 1rem;
+                margin-bottom: 2rem;
             }
             
             .cta-buttons {
                 flex-direction: column;
                 align-items: center;
+                gap: 1rem;
+                width: 100%;
+            }
+            
+            .btn {
+                width: 100%;
+                max-width: 300px;
+                padding: 14px 24px;
+                font-size: 1.1rem;
+                min-height: 50px;
+            }
+            
+            .features {
+                padding: 60px 0;
             }
             
             .features-grid,
             .documents-grid {
                 grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            .feature-card,
+            .document-card {
+                padding: 1.5rem;
+                text-align: center;
+            }
+            
+            .feature-icon,
+            .document-icon {
+                font-size: 2.5rem;
+            }
+            
+            .feature-title,
+            .document-title {
+                font-size: 1.3rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+                margin-bottom: 2rem;
             }
             
             .footer-content {
                 flex-direction: column;
                 text-align: center;
+                gap: 1.5rem;
+            }
+            
+            .footer-links {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 0.75rem;
+            }
+            
+            header {
+                padding: 1rem 0;
+            }
+            
+            .hero-title {
+                font-size: clamp(1.8rem, 10vw, 2.2rem);
+                margin-bottom: 1rem;
+            }
+            
+            .hero-subtitle {
+                font-size: clamp(0.9rem, 5vw, 1.2rem);
+                margin-bottom: 1.5rem;
+            }
+            
+            .hero-description {
+                font-size: 0.95rem;
+                margin-bottom: 1.5rem;
+            }
+            
+            .btn {
+                padding: 16px 20px;
+                font-size: 1rem;
+                min-height: 48px;
+            }
+            
+            .features {
+                padding: 40px 0;
+            }
+            
+            .documents {
+                padding: 40px 0;
+            }
+            
+            .feature-card,
+            .document-card {
+                padding: 1.25rem;
+            }
+            
+            .feature-icon,
+            .document-icon {
+                font-size: 2rem;
+            }
+            
+            .feature-title,
+            .document-title {
+                font-size: 1.1rem;
+            }
+            
+            .section-title {
+                font-size: 1.6rem;
+                margin-bottom: 1.5rem;
+            }
+            
+            .footer-links a {
+                padding: 0.75rem 1rem;
+                min-height: 48px;
+            }
+        }
+
+        /* Touch-friendly improvements */
+        @media (hover: none) and (pointer: coarse) {
+            .btn,
+            .footer-links a {
+                min-height: 44px;
+                min-width: 44px;
+            }
+            
+            .feature-card,
+            .document-card {
+                padding: 2rem;
+            }
+            
+            .feature-card:hover,
+            .document-card:hover {
+                transform: none;
+                box-shadow: var(--neon-shadow);
+            }
+        }
+
+        /* Improved focus management */
+        .btn:focus,
+        .footer-links a:focus {
+            outline: 3px solid var(--primary-cyan);
+            outline-offset: 2px;
+        }
+
+        /* Better text readability on mobile */
+        @media (max-width: 768px) {
+            .feature-description,
+            .document-description {
+                font-size: 0.95rem;
+                line-height: 1.6;
             }
         }
 
