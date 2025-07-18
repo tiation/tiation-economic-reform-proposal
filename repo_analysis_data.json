@@ -1,0 +1,882 @@
+[
+  {
+    "name": "tiation-rigger-workspace-docs",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-workspace-docs",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 613,
+    "has_mobile_optimization": true,
+    "priority_score": 145
+  },
+  {
+    "name": "work-docs",
+    "path": "/Users/tiaastor/tiation-github/work-docs",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 26,
+    "has_mobile_optimization": false,
+    "priority_score": 130
+  },
+  {
+    "name": "tiation-github-pages-theme",
+    "path": "/Users/tiaastor/tiation-github/tiation-github-pages-theme",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 159,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "dice-roller-marketing-site",
+    "path": "/Users/tiaastor/tiation-github/dice-roller-marketing-site",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 13,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-docs",
+    "path": "/Users/tiaastor/tiation-github/tiation-docs",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 20,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "temp-github-pages",
+    "path": "/Users/tiaastor/tiation-github/temp-github-pages",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 9,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "spring-up-markers-web",
+    "path": "/Users/tiaastor/tiation-github/spring-up-markers-web",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "mark-photo-flare-site",
+    "path": "/Users/tiaastor/tiation-github/mark-photo-flare-site",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 17,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "mupan-leopard-wellness-hub",
+    "path": "/Users/tiaastor/tiation-github/mupan-leopard-wellness-hub",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-knowledge-hub",
+    "path": "/Users/tiaastor/tiation-github/tiation-knowledge-hub",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 13,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation.github.io",
+    "path": "/Users/tiaastor/tiation-github/tiation.github.io",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 17,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-afl-fantasy-manager-docs",
+    "path": "/Users/tiaastor/tiation-github/tiation-afl-fantasy-manager-docs",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 18,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-wellness-hub",
+    "path": "/Users/tiaastor/tiation-github/tiation-wellness-hub",
+    "type": "Website",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-parrot-security-guide-au",
+    "path": "/Users/tiaastor/tiation-github/tiation-parrot-security-guide-au",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 24,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-macos-networking-guide",
+    "path": "/Users/tiaastor/tiation-github/tiation-macos-networking-guide",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 2206,
+    "has_mobile_optimization": true,
+    "priority_score": 120
+  },
+  {
+    "name": "tiation-rigger-workspace",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-workspace",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 2736,
+    "has_mobile_optimization": true,
+    "priority_score": 115
+  },
+  {
+    "name": "tiation-economic-reform-proposal",
+    "path": "/Users/tiaastor/tiation-github/tiation-economic-reform-proposal",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 499,
+    "has_mobile_optimization": true,
+    "priority_score": 115
+  },
+  {
+    "name": "tiation-ai-platform",
+    "path": "/Users/tiaastor/tiation-github/tiation-ai-platform",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 27,
+    "has_mobile_optimization": true,
+    "priority_score": 115
+  },
+  {
+    "name": "tiation-rigger-connect-api",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-connect-api",
+    "type": "API/SDK",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 939,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-java-sdk",
+    "path": "/Users/tiaastor/tiation-github/tiation-java-sdk",
+    "type": "API/SDK",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-go-sdk",
+    "path": "/Users/tiaastor/tiation-github/tiation-go-sdk",
+    "type": "API/SDK",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 16,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-python-sdk",
+    "path": "/Users/tiaastor/tiation-github/tiation-python-sdk",
+    "type": "API/SDK",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-react-template",
+    "path": "/Users/tiaastor/tiation-github/tiation-react-template",
+    "type": "Template/Theme",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 13,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-company-intranet-template",
+    "path": "/Users/tiaastor/tiation-github/tiation-company-intranet-template",
+    "type": "Template/Theme",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 17,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-js-sdk",
+    "path": "/Users/tiaastor/tiation-github/tiation-js-sdk",
+    "type": "API/SDK",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "monetization-templates",
+    "path": "/Users/tiaastor/tiation-github/monetization-templates",
+    "type": "Template/Theme",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 9,
+    "has_mobile_optimization": true,
+    "priority_score": 110
+  },
+  {
+    "name": "tiation-headless-cms",
+    "path": "/Users/tiaastor/tiation-github/tiation-headless-cms",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 117,
+    "has_mobile_optimization": false,
+    "priority_score": 100
+  },
+  {
+    "name": "config",
+    "path": "/Users/tiaastor/tiation-github/config",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 9,
+    "has_mobile_optimization": false,
+    "priority_score": 100
+  },
+  {
+    "name": "tiation-rigger-mobile-app",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-mobile-app",
+    "type": "Application",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1359,
+    "has_mobile_optimization": false,
+    "priority_score": 100
+  },
+  {
+    "name": "Parrot-Security-Guide",
+    "path": "/Users/tiaastor/tiation-github/Parrot-Security-Guide",
+    "type": "Documentation",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 12,
+    "has_mobile_optimization": false,
+    "priority_score": 100
+  },
+  {
+    "name": "tiation-ai-agents",
+    "path": "/Users/tiaastor/tiation-github/tiation-ai-agents",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 3929,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-automation-workspace",
+    "path": "/Users/tiaastor/tiation-github/tiation-automation-workspace",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1018,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-cms",
+    "path": "/Users/tiaastor/tiation-github/tiation-cms",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1356,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "mac-zsh-completions",
+    "path": "/Users/tiaastor/tiation-github/mac-zsh-completions",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 19,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-alma-street-project",
+    "path": "/Users/tiaastor/tiation-github/tiation-alma-street-project",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 34,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-rigger-shared-libraries",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-shared-libraries",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-private-ai-chat",
+    "path": "/Users/tiaastor/tiation-github/tiation-private-ai-chat",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 17,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "perth-white-glove-magic",
+    "path": "/Users/tiaastor/tiation-github/perth-white-glove-magic",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "ubuntu-dev-setup",
+    "path": "/Users/tiaastor/tiation-github/ubuntu-dev-setup",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 27,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "git-workspace",
+    "path": "/Users/tiaastor/tiation-github/git-workspace",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 109,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-terminal-workflows",
+    "path": "/Users/tiaastor/tiation-github/tiation-terminal-workflows",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 26,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-vpn-mesh-network",
+    "path": "/Users/tiaastor/tiation-github/tiation-vpn-mesh-network",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 32,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "architecture-diagrams",
+    "path": "/Users/tiaastor/tiation-github/architecture-diagrams",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1150,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "ProtectChildrenAustralia",
+    "path": "/Users/tiaastor/tiation-github/ProtectChildrenAustralia",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 19,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "Law",
+    "path": "/Users/tiaastor/tiation-github/Law",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 96,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-docker-debian",
+    "path": "/Users/tiaastor/tiation-github/tiation-docker-debian",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 29,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation",
+    "path": "/Users/tiaastor/tiation-github/tiation",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 962,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "grieftodesign",
+    "path": "/Users/tiaastor/tiation-github/grieftodesign",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 659,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-invoice-generator",
+    "path": "/Users/tiaastor/tiation-github/tiation-invoice-generator",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 726,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "home-safety-matrix-ai",
+    "path": "/Users/tiaastor/tiation-github/home-safety-matrix-ai",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-template-repo",
+    "path": "/Users/tiaastor/tiation-github/tiation-template-repo",
+    "type": "Template/Theme",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 0,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-rigger-metrics-dashboard",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-metrics-dashboard",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-legal-case-studies",
+    "path": "/Users/tiaastor/tiation-github/tiation-legal-case-studies",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-infrastructure-charms",
+    "path": "/Users/tiaastor/tiation-github/tiation-infrastructure-charms",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 16,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-fantasy-premier-league",
+    "path": "/Users/tiaastor/tiation-github/tiation-fantasy-premier-league",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-knowledge-base-ai",
+    "path": "/Users/tiaastor/tiation-github/tiation-knowledge-base-ai",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 183,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "dnd_dice_roller",
+    "path": "/Users/tiaastor/tiation-github/dnd_dice_roller",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 17,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "TiaAstor",
+    "path": "/Users/tiaastor/tiation-github/TiaAstor",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 70,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "dnddiceroller-android",
+    "path": "/Users/tiaastor/tiation-github/dnddiceroller-android",
+    "type": "Application",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1501,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tough-talk-podcast-chaos",
+    "path": "/Users/tiaastor/tiation-github/tough-talk-podcast-chaos",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 555,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-ai-code-assistant",
+    "path": "/Users/tiaastor/tiation-github/tiation-ai-code-assistant",
+    "type": "AI/ML",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 19,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-ansible-enterprise",
+    "path": "/Users/tiaastor/tiation-github/tiation-ansible-enterprise",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 558,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "dockerdeb",
+    "path": "/Users/tiaastor/tiation-github/dockerdeb",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 20,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-secure-vpn",
+    "path": "/Users/tiaastor/tiation-github/tiation-secure-vpn",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 520,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "shattered-realms-nexus",
+    "path": "/Users/tiaastor/tiation-github/shattered-realms-nexus",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1122,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-chase-white-rabbit-ngo",
+    "path": "/Users/tiaastor/tiation-github/tiation-chase-white-rabbit-ngo",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 575,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "headscale-admin",
+    "path": "/Users/tiaastor/tiation-github/headscale-admin",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-rigger-infrastructure",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-infrastructure",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 14,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "MinutesRecorder",
+    "path": "/Users/tiaastor/tiation-github/MinutesRecorder",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 12,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "BRANDING_TEMPLATES",
+    "path": "/Users/tiaastor/tiation-github/BRANDING_TEMPLATES",
+    "type": "Template/Theme",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 11,
+    "has_mobile_optimization": false,
+    "priority_score": 90
+  },
+  {
+    "name": "tiation-laptop-utilities",
+    "path": "/Users/tiaastor/tiation-github/tiation-laptop-utilities",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 13,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "liberation-system",
+    "path": "/Users/tiaastor/tiation-github/liberation-system",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": true,
+    "doc_count": 1992,
+    "has_mobile_optimization": true,
+    "priority_score": 90
+  },
+  {
+    "name": "dontbeacunt",
+    "path": "/Users/tiaastor/tiation-github/dontbeacunt",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 14,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "home",
+    "path": "/Users/tiaastor/tiation-github/home",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 15,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "windows-dev-setup",
+    "path": "/Users/tiaastor/tiation-github/windows-dev-setup",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 19,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "AutomationServer",
+    "path": "/Users/tiaastor/tiation-github/AutomationServer",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 10,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "DiceRollerSimulator",
+    "path": "/Users/tiaastor/tiation-github/DiceRollerSimulator",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 28,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "dotfiles",
+    "path": "/Users/tiaastor/tiation-github/dotfiles",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 19,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-server-configs-gae",
+    "path": "/Users/tiaastor/tiation-github/tiation-server-configs-gae",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 14,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-rigger-automation-server",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-automation-server",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 13,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-active-directory-setup",
+    "path": "/Users/tiaastor/tiation-github/tiation-active-directory-setup",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 12,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-rigger-jobs-app",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-jobs-app",
+    "type": "Application",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 12,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-rigger-connect-app",
+    "path": "/Users/tiaastor/tiation-github/tiation-rigger-connect-app",
+    "type": "Application",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 13,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "scripts",
+    "path": "/Users/tiaastor/tiation-github/scripts",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 9,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "MetricsDashboard",
+    "path": "/Users/tiaastor/tiation-github/MetricsDashboard",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 10,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-claude-desktop-linux",
+    "path": "/Users/tiaastor/tiation-github/tiation-claude-desktop-linux",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 13,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "tiation-m4-project",
+    "path": "/Users/tiaastor/tiation-github/tiation-m4-project",
+    "type": "Other",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 17,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  },
+  {
+    "name": "Infrastructure",
+    "path": "/Users/tiaastor/tiation-github/Infrastructure",
+    "type": "Infrastructure",
+    "has_github_pages": true,
+    "has_web_content": false,
+    "doc_count": 12,
+    "has_mobile_optimization": false,
+    "priority_score": 70
+  }
+]
