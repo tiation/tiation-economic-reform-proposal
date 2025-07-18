@@ -1,49 +1,11 @@
-# GitHub Pages Configuration for Tiation Economic Reform Proposal
-
-# Site Settings
-title: "The $19 Trillion Solution - Tiation Economic Reform Proposal"
-description: "Enterprise-grade economic reform proposal: Unlock Australia's $19 trillion balance sheet value to wipe public debt, pre-pay government for 5 years, and fund Universal Basic Income for every citizen."
+title: tiation-economic-reform-proposal
+description: Enterprise-grade solution with dark neon theme
+url: "https://tiaastor.github.io"
 baseurl: "/tiation-economic-reform-proposal"
-url: "https://tiation.github.io"
-
-# Author Information
-author:
-  name: "Tiation Team"
-  email: "tiatheone@protonmail.com"
-  url: "https://github.com/tiation"
-
-# Theme Configuration
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Markdown Configuration
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-# Build Settings
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# SEO
-seo:
-  type: "Organization"
-  name: "Tiation"
-  logo: "assets/tiation-logo.svg"
-
-# Exclude from processing
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - .sass-cache
-  - .jekyll-cache
+author: Tiation
+github_username: tiaastor
