@@ -22,7 +22,7 @@ Allow: /social-share.svg
 Allow: /favicon.ico
 
 # Sitemap location
-Sitemap: https://abundantaussie.com/sitemap.xml
+Sitemap: https://tiation.github.io/tiation-economic-reform-proposal/sitemap.xml
 
 # Crawl delay for respectful crawling
 Crawl-delay: 1

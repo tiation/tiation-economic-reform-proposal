@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/tiation-economic-reform-proposal/favicon.ico"/>
+            <TileColor>#0A0A0A</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

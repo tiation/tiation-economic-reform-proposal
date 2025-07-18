@@ -1,0 +1,28 @@
+{
+  "name": "The $19 Trillion Solution - Tiation Economic Reform Proposal",
+  "short_name": "19T Solution",
+  "description": "Discover how Australia can unlock its $19 trillion balance sheet value to wipe public debt, pre-pay government for 5 years, and fund a Universal Basic Income for every citizen.",
+  "start_url": "/tiation-economic-reform-proposal/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#00FFFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "social-share.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "education", "productivity"],
+  "lang": "en-AU",
+  "scope": "/tiation-economic-reform-proposal/",
+  "related_applications": [],
+  "prefer_related_applications": false
+}
