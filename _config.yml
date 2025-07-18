@@ -1,15 +1,15 @@
-# GitHub Pages Configuration for Tiation tiation economic reform proposal
+# GitHub Pages Configuration for Tiation Economic Reform Proposal
 
 # Site Settings
-title: "Tiation tiation economic reform proposal"
-description: "Enterprise-grade solution powered by Tiation"
+title: "The $19 Trillion Solution - Tiation Economic Reform Proposal"
+description: "Enterprise-grade economic reform proposal: Unlock Australia's $19 trillion balance sheet value to wipe public debt, pre-pay government for 5 years, and fund Universal Basic Income for every citizen."
 baseurl: "/tiation-economic-reform-proposal"
 url: "https://tiation.github.io"
 
 # Author Information
 author:
   name: "Tiation Team"
-  email: "enterprise@tiation.com"
+  email: "tiatheone@protonmail.com"
   url: "https://github.com/tiation"
 
 # Theme Configuration
