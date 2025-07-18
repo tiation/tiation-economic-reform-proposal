@@ -31,7 +31,7 @@ A comprehensive economic reform proposal that demonstrates how Australia can unl
 
 ## 🖼️ Project Preview
 
-![Project Mindmap](Mindmap.svg)
+![Project Mindmap](Mindmap.png)
 
 *Strategic overview of the $19 Trillion Solution implementation framework*
 
@@ -59,10 +59,12 @@ A comprehensive economic reform proposal that demonstrates how Australia can unl
 
 ```
 tiation-economic-reform-proposal/
-├── 📄 Full_Academic_Report.pdf
-├── 📄 One_Page_Summary.pdf
-├── 📊 19T_Solution_Slides.pptx
-├── 🖼️ Mindmap.svg
+├── 📄 Full_Academic_Report.html (Interactive HTML report)
+├── 📄 Full_Academic_Report.pdf (PDF download)
+├── 📋 One_Page_Summary.html (Interactive HTML summary)
+├── 📋 One_Page_Summary.pdf (PDF download)
+├── 📊 19T_Solution_Slides.pptx (PowerPoint presentation)
+├── 🖼️ Mindmap.png (Strategic overview image)
 ├── 📝 Topic_*.pdf (10 detailed topic papers)
 ├── 📱 ios-app/ (Mobile application)
 ├── 🌐 dist/ (Production build)
@@ -109,9 +111,11 @@ tiation-economic-reform-proposal/
 ## 🔗 Quick Access Links
 
 - [📊 **Live Demo**](https://tiation.github.io/tiation-economic-reform-proposal/) - Interactive project showcase
-- [📄 **Full Report**](https://tiation.github.io/tiation-economic-reform-proposal/Full_Academic_Report.pdf) - Complete academic analysis
-- [📋 **One-Page Summary**](https://tiation.github.io/tiation-economic-reform-proposal/One_Page_Summary.pdf) - Executive overview
+- [📄 **Full Report**](https://tiation.github.io/tiation-economic-reform-proposal/Full_Academic_Report.html) - Complete academic analysis
+- [📋 **One-Page Summary**](https://tiation.github.io/tiation-economic-reform-proposal/One_Page_Summary.html) - Executive overview
 - [🎯 **GitHub Repository**](https://github.com/tiation/tiation-economic-reform-proposal) - Source code and documentation
+- [📊 **PowerPoint Slides**](https://tiation.github.io/tiation-economic-reform-proposal/19T_Solution_Slides.pptx) - Solution presentation
+- [🖼️ **Strategic Mindmap**](https://tiation.github.io/tiation-economic-reform-proposal/Mindmap.png) - Visual overview
 
 ---
 
@@ -137,9 +141,9 @@ This repository is part of the Tiation ecosystem. Explore related projects:
 ## 📞 Support & Contact
 
 - 📧 **Enterprise Support**: [tiatheone@protonmail.com](mailto:tiatheone@protonmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tiaastor/tiation-economic-reform-proposal/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/tiaastor/tiation-economic-reform-proposal/wiki)
-- 🔗 **GitHub**: [Repository](https://github.com/tiaastor/tiation-economic-reform-proposal)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/tiation/tiation-economic-reform-proposal/issues)
+- 📖 **Documentation**: [Wiki](https://github.com/tiation/tiation-economic-reform-proposal/wiki)
+- 🔗 **GitHub**: [Repository](https://github.com/tiation/tiation-economic-reform-proposal)
 
 ---
 
@@ -151,15 +155,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- [Tiation Terminal Workflows](https://github.com/tiaastor/tiation-terminal-workflows)
-- [Tiation Docker Debian](https://github.com/tiaastor/tiation-docker-debian)
-- [Tiation AI Platform](https://github.com/tiaastor/tiation-ai-platform)
-- [Tiation CMS](https://github.com/tiaastor/tiation-cms)
+- [Tiation Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows)
+- [Tiation Docker Debian](https://github.com/tiation/tiation-docker-debian)
+- [Tiation AI Platform](https://github.com/tiation/tiation-ai-platform)
+- [Tiation CMS](https://github.com/tiation/tiation-cms)
 
 ---
 
 <div align="center">
   **⭐ Star this repository if you find it helpful! ⭐**
   
-  <p><strong>Built with ❤️ and enterprise-grade standards by <a href="https://github.com/tiaastor">Tiation</a></strong></p>
+  <p><strong>Built with ❤️ and enterprise-grade standards by <a href="https://github.com/tiation">Tiation</a></strong></p>
 </div>
