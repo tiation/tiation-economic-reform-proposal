@@ -31,7 +31,7 @@ A comprehensive economic reform proposal that demonstrates how Australia can unl
 
 ## 🖼️ Project Preview
 
-![Project Mindmap](Mindmap.png)
+![Project Mindmap](Mindmap.svg)
 
 *Strategic overview of the $19 Trillion Solution implementation framework*
 
@@ -62,7 +62,7 @@ tiation-economic-reform-proposal/
 ├── 📄 Full_Academic_Report.pdf
 ├── 📄 One_Page_Summary.pdf
 ├── 📊 19T_Solution_Slides.pptx
-├── 🖼️ Mindmap.png
+├── 🖼️ Mindmap.svg
 ├── 📝 Topic_*.pdf (10 detailed topic papers)
 ├── 📱 ios-app/ (Mobile application)
 ├── 🌐 dist/ (Production build)
