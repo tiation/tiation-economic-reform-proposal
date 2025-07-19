@@ -1,8 +1,0 @@
-/home/lappy/work/015_Shared_Tools/Projects/001_$19TAU/abundant-aussie/public
-├── favicon.ico
-├── placeholder.svg
-├── robots.txt
-├── structure.json
-└── structure.txt
-
-1 directory, 5 files
