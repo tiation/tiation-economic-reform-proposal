@@ -32,9 +32,31 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-tighter">
             The <span className="text-yellow-400">$19 Trillion</span> Solution
           </h1>
-          <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-blue-100">
-            Australia's balance sheet says we're a $19 trillion nation. If we unlock even a third of that value, we can wipe every public debt, pre-pay government for five years, and put an asset-plus-UBI in every adult and child's pocket—today.
+          <div className="mb-4">
+            <p className="text-2xl md:text-3xl font-bold text-yellow-400 mb-2">
+              "What if we shared what we have? Woah. We're rich!!!!"
+            </p>
+          </div>
+          <p className="text-xl md:text-2xl mb-6 max-w-3xl mx-auto text-blue-100">
+            Australia's balance sheet reveals we're worth $19 trillion. That's <span className="text-yellow-400 font-bold">$104,000 for every Australian</span>. 
+            Unlock just one-third and we can eliminate poverty, abolish public debt, and provide $800 weekly UBI for everyone.
           </p>
+          <div className="bg-blue-800/30 backdrop-blur rounded-lg p-6 mb-8 max-w-2xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
+              <div>
+                <div className="text-2xl font-bold text-yellow-400">$800</div>
+                <div className="text-sm text-blue-200">Weekly per person</div>
+              </div>
+              <div>
+                <div className="text-2xl font-bold text-yellow-400">$104K</div>
+                <div className="text-sm text-blue-200">Your asset share</div>
+              </div>
+              <div>
+                <div className="text-2xl font-bold text-yellow-400">5+ Years</div>
+                <div className="text-sm text-blue-200">Pre-funded govt</div>
+              </div>
+            </div>
+          </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button onClick={scrollToOverview} className="bg-yellow-500 hover:bg-yellow-400 text-blue-900 font-bold px-8 py-6 text-lg rounded-lg">
               Learn More
