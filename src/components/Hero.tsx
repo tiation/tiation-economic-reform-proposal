@@ -29,6 +29,11 @@ const Hero = () => {
       </div>
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
+          <div className="mb-4">
+            <h2 className="text-2xl md:text-3xl font-bold text-yellow-400 mb-2">
+              🇦🇺 Abundant Aussie 🇦🇺
+            </h2>
+          </div>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-tighter">
             The <span className="text-yellow-400">$19 Trillion</span> Solution
           </h1>

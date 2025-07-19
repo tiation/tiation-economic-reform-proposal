@@ -153,3 +153,4 @@ secrets.json
 .sveltekit/
 .solid/
 .astro/
+.vercel
