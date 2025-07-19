@@ -15,7 +15,7 @@ const App = () => (
       <SEOHelmet />
       <Toaster />
       <Sonner />
-      <BrowserRouter basename="/19-trillion-solution">
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
