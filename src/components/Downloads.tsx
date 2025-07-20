@@ -3,7 +3,96 @@ import { Download, FileText, Book, FileImage, Presentation } from 'lucide-react'
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 
+// Book cover component with neon theme
+const BookCover = () => (
+  <div className="relative overflow-hidden rounded-lg bg-gradient-to-br from-[#0a0a0a] to-[#1a1a1a] p-8 shadow-xl ring-1 ring-gray-900/10 transition-all duration-300 hover:shadow-cyan-500/20">
+    <div className="absolute inset-0 bg-gradient-to-br from-cyan-500/20 to-fuchsia-500/20 opacity-50"></div>
+    <div className="relative">
+      <h2 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-fuchsia-400 bg-clip-text text-transparent mb-4">
+        The $19 Trillion Solution
+      </h2>
+      <p className="text-xl text-gray-300 mb-6">
+        A Comprehensive Guide to Australia's Economic Transformation
+      </p>
+      <div className="space-y-4">
+        <p className="text-gray-400">Complete Book Including:</p>
+        <ul className="list-disc list-inside text-gray-300 space-y-2">
+          <li>Detailed Economic Analysis</li>
+          <li>Implementation Strategy</li>
+          <li>Impact Assessment</li>
+          <li>Future Vision</li>
+        </ul>
+      </div>
+      <Button 
+        className="mt-8 bg-gradient-to-r from-cyan-500 to-fuchsia-500 text-black hover:from-cyan-400 hover:to-fuchsia-400"
+        onClick={() => window.location.href = '/economic-reform-proposal.pdf'}
+      >
+        <Download className="mr-2 h-4 w-4" />
+        Download Complete Book
+      </Button>
+    </div>
+  </div>
+);
+
 const Downloads = () => {
+  return (
+    <section className="py-16 bg-gradient-to-b from-black to-gray-900">
+      <div className="container mx-auto px-4">
+        <h2 className="text-4xl font-bold text-center mb-12 bg-gradient-to-r from-cyan-400 to-fuchsia-400 bg-clip-text text-transparent">
+          Essential Downloads
+        </h2>
+        
+        <DownloadBook />
+        
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mt-12">
+          <div className="bg-gray-800 rounded-lg p-6 shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
+            <h3 className="text-xl font-semibold text-cyan-400 mb-4">Research Paper</h3>
+            <p className="text-gray-300 mb-4">Detailed economic analysis and mathematical proof of the $19 trillion solution.</p>
+            <a
+              href="/Full_Academic_Report.pdf"
+              className="inline-flex items-center text-fuchsia-400 hover:text-fuchsia-300 transition-colors duration-200"
+              download
+            >
+              Download PDF
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+              </svg>
+            </a>
+          </div>
+          
+          <div className="bg-gray-800 rounded-lg p-6 shadow-lg hover:shadow-fuchsia-500/10 transition-all duration-300">
+            <h3 className="text-xl font-semibold text-fuchsia-400 mb-4">Implementation Guide</h3>
+            <p className="text-gray-300 mb-4">Step-by-step guide for implementing the economic transformation.</p>
+            <a
+              href="/Topic_Implementation.pdf"
+              className="inline-flex items-center text-cyan-400 hover:text-cyan-300 transition-colors duration-200"
+              download
+            >
+              Download PDF
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+              </svg>
+            </a>
+          </div>
+          
+          <div className="bg-gray-800 rounded-lg p-6 shadow-lg hover:shadow-cyan-500/10 transition-all duration-300">
+            <h3 className="text-xl font-semibold text-cyan-400 mb-4">Presentation Deck</h3>
+            <p className="text-gray-300 mb-4">Comprehensive presentation slides for sharing the solution.</p>
+            <a
+              href="/19T_Solution_Slides.pptx"
+              className="inline-flex items-center text-fuchsia-400 hover:text-fuchsia-300 transition-colors duration-200"
+              download
+            >
+              Download PPTX
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
   const downloadItems = [
     {
       title: "Full Academic Report",
@@ -62,7 +151,11 @@ const Downloads = () => {
   };
 
   return (
-    <section data-downloads-section className="py-16 bg-gradient-to-br from-blue-50 to-indigo-100">
+    <section data-downloads-section className="py-16 bg-gradient-to-br from-gray-900 to-black">
+      {/* Featured Book Download */}
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
+        <BookCover />
+      </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">

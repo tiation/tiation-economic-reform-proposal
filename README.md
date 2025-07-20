@@ -190,6 +190,12 @@ public/                 # Research Documents
 
 ## 📚 Resources Available
 
+### 📚 Download the Complete Book
+
+[![Download PDF](https://img.shields.io/badge/Download-Complete_Book_PDF-00FFFF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](economic-reform-proposal.pdf)
+
+Download the complete book in PDF format, featuring our signature dark neon theme with cyan/magenta gradients.
+
 ### Complete Book Series
 - **[Full Book Structure](./book/README.md)** - 12-chapter comprehensive guide
 - **[Chapter 1: The $19 Trillion Secret](./book/chapters/01-the-secret.md)** - How Australia's wealth was hidden in plain sight
