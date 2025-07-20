@@ -242,8 +242,9 @@ ChaseWhiteRabbit is an NGO that transforms grief into systemic change through su
 
 ## 🌟 Related Projects
 
-- [ChaseWhiteRabbit](https://github.com/tiation/ChaseWhiteRabbit) - Main NGO repository
-- [GriefToDesign](https://github.com/tiation/grieftodesign) - Transform grief into systemic solutions
+- [GriefToDesign](https://github.com/tiation/grieftodesign) - Transform grief into systemic solutions through our evidence-based economic reform proposal
+- [Tia's Professional Portfolio](https://github.com/tiation/tia-portfolio) - Lead developer's professional background and contributions
+- [ChaseWhiteRabbit](https://github.com/tiation/ChaseWhiteRabbit) - Main NGO repository implementing these solutions
 - [Intranet](https://github.com/tiation/company-intranet) - Enterprise-grade community management
 
 ---
