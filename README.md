@@ -8,7 +8,7 @@
 
 *Australia's balance sheet says we're a $19 trillion nation. Let's unlock it for everyone.*
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](http://tiation-economic-reform.surge.sh/)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://abundant-aussie.vercel.app/)
 [![Research](https://img.shields.io/badge/Research-Mathematical%20Proof-blue?style=flat-square)](docs/research/)
 [![Solution](https://img.shields.io/badge/Solution-Ready-success?style=flat-square)](docs/solution/)
 [![Impact](https://img.shields.io/badge/Impact-Universal-orange?style=flat-square)](docs/impact/)
@@ -57,7 +57,7 @@ Aligned with ChaseWhiteRabbit's core belief that **automation is compassion at s
 
 ## 🚀 Live Demo
 
-Visit the live site: [http://tiation-economic-reform.surge.sh/](http://tiation-economic-reform.surge.sh/)
+Visit the live site: [https://abundant-aussie.vercel.app/](https://abundant-aussie.vercel.app/)
 
 ## 📱 iOS App
 
@@ -127,12 +127,12 @@ This project is built with modern, fast technologies:
 
 ## 🚀 Deployment
 
-This project is automatically deployed to GitHub Pages via GitHub Actions:
+This project is automatically deployed to Vercel via GitHub Actions:
 
 1. Push changes to the `master` branch
-2. GitHub Actions builds the project with Vite
-3. Deploys to `gh-pages` branch
-4. Available at: http://tiation-economic-reform.surge.sh/
+2. GitHub Actions triggers Vercel deployment
+3. Vercel builds and deploys the project
+4. Available at: https://abundant-aussie.vercel.app/
 
 ### Manual Deployment
 
